@@ -1,4 +1,16 @@
 aid: english-random-words
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/english-random-words.png
 name: English Random Words
 description: "Generate English Random Words with Pronunciation"
 url: https://random-words-api.vercel.app/word
